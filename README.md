@@ -1,7 +1,7 @@
-# Back-Up hosts Windows All Version 
+# Back-Up Hosts Windows All Version 
 
 
-# Tampilan Hosts Windows 7
+# Tampilan hosts Windows 7
 ![be](https://raw.githubusercontent.com/boychongzen18/Hosts-All-Windows/master/win7-host.png)
 
 
